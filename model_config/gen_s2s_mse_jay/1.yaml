@@ -1,0 +1,5 @@
+---
+- Generator:
+    - net_in_v2 0,1:
+        input_size : 80
+...

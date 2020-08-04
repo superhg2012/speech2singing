@@ -1,0 +1,6 @@
+---
+- Generator:
+    - NetGExperimentStackWithHead 0:
+        feat_dim : 80
+        z_dim : 32
+...

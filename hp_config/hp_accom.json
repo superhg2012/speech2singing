@@ -1,0 +1,17 @@
+{
+    "vocal_files" : "/home/ericwudayi/nas189/homes/ericwudayi/MUSDB18_WAV/10seconds_512_mag/mel.melgan",
+    "linear_mixture_files" : "/home/ericwudayi/nas189/homes/ericwudayi/MUSDB18_WAV/10seconds_mixture_512_mag/mel.melgan",
+    "accom_files" : "/home/ericwudayi/nas189/homes/ericwudayi/MUSDB18_WAV/10seconds_accom_512_mag/mel.melgan",
+
+    "sampling_rate" : 22050,
+    "filter_length" : 1023,
+    "hop_length" : 256,
+    "win_length" : 1023,
+    
+
+    "config_gen" : "gen_accom",
+    "config_dis" : "dis_accom",
+    "config_dis_accom" : "dis_accom",
+
+    "loss" : "BEGAN"
+}

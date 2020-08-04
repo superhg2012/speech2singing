@@ -1,0 +1,5 @@
+{
+    "config_gen" : "gen_s2s_mse_512",
+    "config_dis" : "dis_accom"
+
+}

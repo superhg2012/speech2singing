@@ -1,0 +1,5 @@
+{
+    "config_gen" : "gen_s2s_mse",
+    "config_dis" : "dis0"
+
+}

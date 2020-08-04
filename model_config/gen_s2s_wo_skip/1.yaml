@@ -1,0 +1,5 @@
+---
+- Generator:
+    - NetSing2SpeechPitch_WO_SKIP 0,1:
+        freq : 80
+...

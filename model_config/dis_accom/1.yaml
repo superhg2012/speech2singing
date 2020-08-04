@@ -1,0 +1,5 @@
+---
+- Discriminator:
+    - NetD 0:
+        input_size : 512
+...

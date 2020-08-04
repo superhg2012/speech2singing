@@ -1,0 +1,5 @@
+---
+- Discriminator:
+    - AutoEncoder 0:
+        freq : 80
+...

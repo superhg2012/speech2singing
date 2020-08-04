@@ -1,0 +1,8 @@
+---
+- Generator:
+    - DownSample 0:
+        freq : 512
+    - NetGExperimentAccom 0:
+        feat_dim : 512
+        z_dim : 64
+...

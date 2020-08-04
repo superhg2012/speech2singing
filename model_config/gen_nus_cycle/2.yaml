@@ -1,0 +1,5 @@
+---
+- Generator2:
+    - AutoEncoder 0:
+        freq : 512
+...

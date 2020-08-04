@@ -1,0 +1,5 @@
+{
+    "config_gen" : "gen_s2s_mse_jay",
+    "config_dis" : "dis0"
+
+}

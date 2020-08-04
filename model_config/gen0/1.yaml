@@ -1,0 +1,6 @@
+---
+- Generator:
+    - NetG 0:
+        feat_dim : 80
+        z_dim : 20
+...

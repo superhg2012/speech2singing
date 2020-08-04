@@ -1,0 +1,5 @@
+---
+- Generator:
+    - NetSing2SpeechPitchOri 0,1:
+        freq : 512
+...

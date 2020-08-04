@@ -1,0 +1,8 @@
+{
+
+    
+    "config_gen" : "gen_s2s_unpaired",
+    "config_dis" : "dis0",
+
+    "loss" : "BEGAN"
+}

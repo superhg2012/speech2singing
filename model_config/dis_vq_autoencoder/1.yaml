@@ -1,0 +1,5 @@
+---
+- Discriminator:
+    - VQAutoEncoder 0:
+        in_channel : 80
+...

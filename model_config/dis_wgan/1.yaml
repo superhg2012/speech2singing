@@ -1,0 +1,5 @@
+---
+- Discriminator:
+    - NetD_WGAN 0:
+        input_size : 80
+...
